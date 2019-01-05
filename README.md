@@ -1,3 +1,5 @@
 # adventofcode2018
-advent of code 2018 solutions. i'm recovering overseas so these may be late/etc. but I am writing them outside of the greater AoC ecosystem to learn how to use the basics of some things and get a greater handle on things that may be useful later.
-apologies, this code is going to be terrrrrible. the cleanliness is not really the point @.@
+advent of code 2018 solutions for the first five days!
+i was recovering overseas but was told about this and obsessively did all of them from december 3-5.
+from here I just dropped it as I was working on other things.
+apologies, this code is terrrrrible. the cleanliness is not really the point @.@
